@@ -1,0 +1,14 @@
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\bin\Debug\net7.0\ToanTuSoHoc.exe
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\bin\Debug\net7.0\ToanTuSoHoc.deps.json
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\bin\Debug\net7.0\ToanTuSoHoc.runtimeconfig.json
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\bin\Debug\net7.0\ToanTuSoHoc.dll
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\bin\Debug\net7.0\ToanTuSoHoc.pdb
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ToanTuSoHoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ToanTuSoHoc.AssemblyInfoInputs.cache
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ToanTuSoHoc.AssemblyInfo.cs
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ToanTuSoHoc.csproj.CoreCompileInputs.cache
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ToanTuSoHoc.dll
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\refint\ToanTuSoHoc.dll
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ToanTuSoHoc.pdb
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ToanTuSoHoc.genruntimeconfig.cache
+E:\PhatTrienPhanMemQuanLy\C#\ToanTu\ToanTuSoHoc\obj\Debug\net7.0\ref\ToanTuSoHoc.dll

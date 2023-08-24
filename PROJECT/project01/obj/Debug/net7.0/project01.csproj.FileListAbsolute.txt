@@ -1,0 +1,14 @@
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\bin\Debug\net7.0\project01.exe
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\bin\Debug\net7.0\project01.deps.json
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\bin\Debug\net7.0\project01.runtimeconfig.json
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\bin\Debug\net7.0\project01.dll
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\bin\Debug\net7.0\project01.pdb
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\project01.AssemblyInfoInputs.cache
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\project01.AssemblyInfo.cs
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\project01.csproj.CoreCompileInputs.cache
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\project01.dll
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\refint\project01.dll
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\project01.pdb
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\project01.genruntimeconfig.cache
+E:\PhatTrienPhanMemQuanLy\PROJECT\project01\obj\Debug\net7.0\ref\project01.dll
